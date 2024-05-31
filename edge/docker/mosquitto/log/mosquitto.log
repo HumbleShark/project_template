@@ -1,0 +1,31 @@
+1717107211: mosquitto version 2.0.18 starting
+1717107211: Config loaded from /mosquitto/config/mosquitto.conf.
+1717107211: Opening ipv4 listen socket on port 1883.
+1717107211: Opening ipv6 listen socket on port 1883.
+1717107211: mosquitto version 2.0.18 running
+1717107212: New connection from 172.21.0.3:38265 on port 1883.
+1717107212: New client connected from 172.21.0.3:38265 as auto-1D03BEC6-D726-1350-6FDD-350C98B43DB3 (p2, c1, k60).
+1717107212: New connection from 172.21.0.3:33285 on port 1883.
+1717107212: New client connected from 172.21.0.3:33285 as auto-D2423FF6-C451-C5E1-9107-815ABEF3665E (p2, c1, k60).
+1717107221: New connection from 172.21.0.1:54538 on port 1883.
+1717107221: New client connected from 172.21.0.1:54538 as mqtt-explorer-dc17d755 (p2, c1, k60).
+1717107252: Client mqtt-explorer-dc17d755 disconnected.
+1717107254: New connection from 172.21.0.1:52832 on port 1883.
+1717107254: New client connected from 172.21.0.1:52832 as mqtt-explorer-dc17d755 (p2, c1, k60).
+1717107268: Client auto-D2423FF6-C451-C5E1-9107-815ABEF3665E closed its connection.
+1717107268: Client auto-1D03BEC6-D726-1350-6FDD-350C98B43DB3 closed its connection.
+1717107268: mosquitto version 2.0.18 terminating
+1717107268: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717107274: mosquitto version 2.0.18 starting
+1717107274: Config loaded from /mosquitto/config/mosquitto.conf.
+1717107274: Opening ipv4 listen socket on port 1883.
+1717107274: Opening ipv6 listen socket on port 1883.
+1717107274: mosquitto version 2.0.18 running
+1717107274: New connection from 172.21.0.3:43991 on port 1883.
+1717107274: New client connected from 172.21.0.3:43991 as auto-36D96340-4DB0-7CFD-B77D-499820AF545A (p2, c1, k60).
+1717107274: New connection from 172.21.0.3:47085 on port 1883.
+1717107274: New client connected from 172.21.0.3:47085 as auto-3C8BFD27-CB78-E5B0-A2BB-BF486913E9FF (p2, c1, k60).
+1717107289: Client auto-3C8BFD27-CB78-E5B0-A2BB-BF486913E9FF closed its connection.
+1717107289: Client auto-36D96340-4DB0-7CFD-B77D-499820AF545A closed its connection.
+1717107290: mosquitto version 2.0.18 terminating
+1717107290: Saving in-memory database to /mosquitto/data//mosquitto.db.
